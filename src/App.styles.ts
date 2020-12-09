@@ -1,4 +1,4 @@
-import styled, { createGlobalStyle } from "styled-components";
+import styled, { createGlobalStyle } from 'styled-components/macro';
 
 import BackgroundIMG from "./img/bg.png";
 
