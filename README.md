@@ -7,6 +7,9 @@ Hello, this is a simple quiz app build using **REACTJS** and **TYPESCRIPT** and 
 <img src="https://media.giphy.com/media/26FPqtXZkuciQPklO/giphy.gif"/>
 </p>
 
+# INTRO
+This is a very simple quiz app, you will get 10 questions and you need to answer each of them to get 10 points.
+
 ## ❤ Funding 🔝
 **If you want to support me to do more projects and develop myself, I would be grateful to you** 
 
