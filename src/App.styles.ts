@@ -1,4 +1,5 @@
-import styled, { createGlobalStyle } from 'styled-components';
+import styled, { createGlobalStyle } from "styled-components";
+
 import BackgroundIMG from "./img/bg.png";
 
 export const AppStyle = createGlobalStyle`
@@ -40,7 +41,7 @@ export const AppWrapper = styled.div`
     align-items: center;
     justify-content: center;
   }
-  
+
   .appP {
     cursor: pointer;
     position: relative;
@@ -54,11 +55,11 @@ export const AppWrapper = styled.div`
     transition: background 0.2s ease-out;
     white-space: nowrap;
   }
-  
+
   .appspan {
     position: relative;
   }
-  
+
   .appspan:before {
     content: "";
     position: absolute;
@@ -69,13 +70,13 @@ export const AppWrapper = styled.div`
     bottom: 9px;
     transition: all 0.2s ease-out;
   }
-  
+
   .appP:hover {
     background-position: 0 11px;
   }
-  
+
   .appspan:hover:before {
-    transform: translateY(10px)
+    transform: translateY(10px);
   }
   .start,
   .next {
